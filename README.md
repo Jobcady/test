@@ -9,20 +9,10 @@ int main()
     return 0;
 }
 ```
-### To-do List
-- [x]已完成项目1
- - [x]已完成事项2
- - [x]已完成事项2
-- []待办事项1
-- []待办事项2
 
-### 流程图
-
-```mermaid
-graph TD
-    A(A) -->B((B))
-    B -->C{C}
-    B -->D(D)
-```
-
-### 序列图
+### 表格
+| Item     |    Value |  Qty  |
+| :------- | -------: | :---: |
+| Computer | 1600 USD |   5   |
+| Phone    |   12 USD |  12   |
+| Pipe     |    1 USD |  234  |
